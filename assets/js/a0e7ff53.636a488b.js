@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhtml_voor_beginners=self.webpackChunkhtml_voor_beginners||[]).push([[3049],{5282:s=>{s.exports=JSON.parse('{"title":"Cursus - HTML","description":"Cursus html","slug":"/category/cursus---html","permalink":"/docs/category/cursus---html","navigation":{"next":{"title":"inleiding","permalink":"/docs/cursus/H1-inleiding/inleiding"}}}')}}]);
