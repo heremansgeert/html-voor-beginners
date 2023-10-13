@@ -1,12 +1,13 @@
+---
+sidebar_position: 1
+---
+
 ```mdx-code-block
 import BrowserWindow from '@site/src/components/BrowserWindow';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 ```
 
----
-title: Inleiding HTML
----
 
 
 # Inleiding HTML

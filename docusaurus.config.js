@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Cursus HTML voor Webdevs',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -72,27 +72,21 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'cursusSidebar',
             position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+            label: 'Cursus',
+          }
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Curus',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Cursus',
+                to: '/docs/cursus/H1-inleiding/inleiding',
               },
             ],
           },
