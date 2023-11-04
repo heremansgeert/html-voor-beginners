@@ -1,6 +1,11 @@
 ---
 sidebar_position: 2
 ---
+```mdx-code-block
+import BrowserWindow from '@site/src/components/BrowserWindow';
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+```
 
 # Maak je eerste webpagina
 
@@ -41,6 +46,17 @@ Kopieer en kleef de onderstaande tekst in het bestand:
 ```
 
 Sla het bestand op en open het bestand in je browser. Je zou nu het volgende moeten zien:
+```mdx-code-block
+<BrowserWindow>
+
+ ```
 
 ![Eerste webpagina](../assets/H1-inleiding/oefening1.png)
+
+```mdx-code-block
+
+ </BrowserWindow>
+  ```
+
+
 
