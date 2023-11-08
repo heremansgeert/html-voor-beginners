@@ -9,18 +9,18 @@ const config = {
   title: 'HTML voor beginners',
   tagline: 'Cursus door Geert Heremans',
   favicon: 'img/favicon.ico',
-
-  // Set the production url of your site here
-  url: 'https://heremansgeert.github.io/',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
-
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'heremansgeert', // Usually your GitHub org/user name.
-  projectName: 'heremansgeert.github.io', // Usually your repo name.
+  projectName: 'html-voor-beginners', // Usually your repo name.
 
+  // Set the production url of your site here
+  url: "https://heremansgeert.github.io",
+  // Set the /<baseUrl>/ pathname under which your site is served
+  // For GitHub pages deployment, it is often '/<projectName>/'
+  baseUrl: "/html-voor-beginners",
+
+ trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
